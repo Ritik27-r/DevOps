@@ -129,7 +129,11 @@ devops/
 ├── Git-GitHub/
 │   ├── Git-Basics.md
 │   ├── Branching.md
-│   └── GitHub-Actions.md
+│   ├── Internals.md
+│   ├── Merging.md
+│   ├── Rebase.md
+│   ├── Stashing.md
+│   └── Tags.md
 │
 ├── Docker/
 │   ├── Docker-Basics.md
@@ -153,9 +157,13 @@ devops/
 │   ├── Basics.md
 │   └── AWS-Infrastructure.md
 │
-├── Jenkins/
-│   ├── Jenkins-Basics.md
-│   └── CI-CD-Pipeline.md
+├── CI/CD/
+│   ├── Jenkins/
+│   │   ├── Jenkins-Basics.md
+│   │   └── CI-CD-Pipeline.md
+│   └── GitHub-actions/
+│       ├── Actions-Basics.md
+│       └── CI-CD-Pipeline.md
 │
 ├── Monitoring/
 │   ├── Prometheus.md
